@@ -4,7 +4,7 @@
 
     <groupId>com.basho.riak.protobuf</groupId>
     <artifactId>riak-pbj</artifactId>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Riak Protocol Buffers</name>
