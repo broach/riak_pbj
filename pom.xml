@@ -4,7 +4,7 @@
 
     <groupId>com.basho.riak.protobuf</groupId>
     <artifactId>riak-pbj</artifactId>
-    <version>1.2</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Riak Protocol Buffers</name>
@@ -12,9 +12,9 @@
     <url>https://github.com/basho/riak_pb</url>
     
     <scm>
-        <connection>scm:git:ssh://git@github.com/basho/riak_pb.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/basho/riak_pb.git</developerConnection>
-        <url>http://github.com/basho/riak_pb</url>
+        <connection>scm:git:ssh://git@github.com/basho/riak_pbj.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/basho/riak_pbj.git</developerConnection>
+        <url>http://github.com/basho/riak_pbj</url>
     </scm>
     
     <properties>
