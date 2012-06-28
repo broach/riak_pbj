@@ -12,9 +12,9 @@
     <url>https://github.com/basho/riak_pb</url>
     
     <scm>
-        <connection>scm:git:ssh://git@github.com/basho/riak_pbj.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/basho/riak_pbj.git</developerConnection>
-        <url>http://github.com/basho/riak_pbj</url>
+        <connection>scm:git:ssh://git@github.com/broach/riak_pbj.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/broach/riak_pbj.git</developerConnection>
+        <url>http://github.com/broach/riak_pbj</url>
     </scm>
     
     <properties>
